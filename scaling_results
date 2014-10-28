@@ -1,0 +1,429 @@
+ROVERS
+
+10agents:
+dist: 220804 1483569 49639 4.57 44.91 133 0
+FD:
+Plan cost: 121
+Initial state h value: 83/95.
+Expanded 4687 state(s).
+Reopened 0 state(s).
+Evaluated 152999 state(s).
+Evaluations: 305998
+Generated 407653 state(s).
+Dead ends: 0 state(s).
+Search space hash size: 152999
+Search space hash bucket count: 196613
+Search time: 18.54s
+Total time: 18.62s
+
+
+15:
+dist: 8842 63769 6579 0.74 10.13 143 0
+FD:
+Plan cost: 124
+Initial state h value: 88/102.
+Expanded 11600 state(s).
+Reopened 0 state(s).
+Evaluated 448741 state(s).
+Evaluations: 897482
+Generated 1293624 state(s).
+Dead ends: 0 state(s).
+Search space hash size: 448741
+Search space hash bucket count: 786433
+Search time: 67.62s
+Total time: 67.73s
+
+20:
+dist: 5911 45676 5352 0.61 10.57 126 0
+FD:
+Plan cost: 106
+Initial state h value: 85/80.
+Expanded 10162 state(s).
+Reopened 0 state(s).
+Evaluated 641001 state(s).
+Evaluations: 1282002
+Generated 1490963 state(s).
+Dead ends: 0 state(s).
+Search space hash size: 641001
+Search space hash bucket count: 786433
+Search time: 110.91s
+Total time: 111.06s
+
+25:
+dist: 6786 49798 5040 1.03 22.36 153 0
+FD:
+Plan cost: 123
+Initial state h value: 114/95.
+Expanded 11950 state(s).
+Reopened 0 state(s).
+Evaluated 857604 state(s).
+Evaluations: 1715208
+Generated 2126789 state(s).
+Dead ends: 0 state(s).
+Search space hash size: 857604
+Search space hash bucket count: 1572869
+Search time: 221.73s
+Total time: 221.94s
+
+30:
+dist: 6643 70811 5951 1.91 47.02 175 0
+FD:
+Plan cost: 148
+Initial state h value: 105/122.
+Expanded 35698 state(s).
+Reopened 0 state(s).
+Evaluated 2818319 state(s).
+Evaluations: 5636638
+Generated 7365789 state(s).
+Dead ends: 0 state(s).
+Search space hash size: 2818319
+Search space hash bucket count: 3145739
+Search time: 887.21s
+Total time: 887.51s
+
+35: 35agents_35_25_22_3_22
+dist: 
+FD:
+Plan cost: 115
+Initial state h value: 101/92.
+Expanded 2315 state(s).
+Reopened 0 state(s).
+Evaluated 365485 state(s).
+Evaluations: 730970
+Generated 612467 state(s).
+Dead ends: 0 state(s).
+Search space hash size: 365485
+Search space hash bucket count: 393241
+Search time: 142.98s
+Total time: 143.32s
+
+35: 35agents_35_26_22_3_22
+dist: 7999 75576 4588 2.01 51.52 148 0
+FD: 
+Plan cost: 105
+Initial state h value: 84/91.
+Expanded 7461 state(s).
+Reopened 0 state(s).
+Evaluated 789903 state(s).
+Evaluations: 1579806
+Generated 1734605 state(s).
+Dead ends: 0 state(s).
+Search space hash size: 789903
+Search space hash bucket count: 1572869
+Search time: 251.46s
+Total time: 251.83s
+
+35: 35agents_35_28_22_3_22
+dist:
+FD:
+Plan cost: 144
+Initial state h value: 108/127.
+Expanded 39314 state(s).
+Reopened 0 state(s).
+Evaluated 3784995 state(s).
+Evaluations: 7569990
+Generated 10241253 state(s).
+Dead ends: 0 state(s).
+Search space hash size: 3784995
+Search space hash bucket count: 6291469
+Search time: 1156.75s
+Total time: 1157.05s
+
+
+
+SATELLITES
+15
+dist: 5019 228244 1063 2.28 28.68 43 0
+FD:
+Plan cost: 39
+Initial state h value: 95/44.
+Expanded 40 state(s).
+Reopened 0 state(s).
+Evaluated 23990 state(s).
+Evaluations: 47980
+Generated 24838 state(s).
+Dead ends: 0 state(s).
+Search space hash size: 23990
+Search space hash bucket count: 24593
+Search time: 28.77s
+Total time: 29.31s
+
+20
+dist: 13696 762215 2102 12.06 221.88 58 0
+FD:
+Plan cost: 51
+Initial state h value: 120/56.
+Expanded 54 state(s).
+Reopened 0 state(s).
+Evaluated 57656 state(s).
+Evaluations: 115312
+Generated 59029 state(s).
+Dead ends: 0 state(s).
+Search space hash size: 57656
+Search space hash bucket count: 98317
+Search time: 183.57s
+Total time: 184.76s
+
+25
+dist: 13486 888769 2082 27.15 605.38 61 0
+FD:
+Plan cost: 59
+Initial state h value: 148/64.
+Expanded 60 state(s).
+Reopened 0 state(s).
+Evaluated 94937 state(s).
+Evaluations: 189874
+Generated 96814 state(s).
+Dead ends: 0 state(s).
+Search space hash size: 94937
+Search space hash bucket count: 98317
+Search time: 661.43s
+Total time: 663.54s
+
+30
+dist: 18462 1399926 3069 59.57 1647.31 76 0
+FD:
+Plan cost: 73
+Initial state h value: 176/85.
+Expanded 111 state(s).
+Reopened 0 state(s).
+Evaluated 244843 state(s).
+Evaluations: 489686
+Generated 248890 state(s).
+Dead ends: 0 state(s).
+Search space hash size: 244843
+Search space hash bucket count: 393241
+Search time: 2627.96s
+Total time: 2631.41s
+
+35
+dist: 20224 1536798 2744 78.24 2368.67 80 0
+
+40
+dist: 16463 1253417 3216 81.63 2867.8 76 0
+
+
+
+
+
+----------------------------
+OPTIMAL SATELLITES - unaltered
+----------------------------
+sat4_2_5_10_7
+brafman1: 1391241 24438428 253541 68.99 273.99 22 0
+FD:
+Plan cost: 22
+Initial state h value: 19.
+Expanded 40343 state(s).
+Reopened 16 state(s).
+Evaluated 574444 state(s).
+Evaluations: 574444
+Generated 2846422 state(s).
+Dead ends: 0 state(s).
+Expanded until last jump: 40300 state(s).
+Reopened until last jump: 16 state(s).
+Evaluated until last jump: 572432 state(s).
+Generated until last jump: 2843450 state(s).
+Search space hash size: 574444
+Search space hash bucket count: 786433
+Search time: 137.41s
+Total time: 137.42s
+
+
+sat5_2_5_10_7:
+brafman1: 2778628 48834420 679822 131.06 648.04 22 0
+FD:
+Plan cost: 22
+Initial state h value: 18.
+Expanded 272817 state(s).
+Reopened 34 state(s).
+Evaluated 5174920 state(s).
+Evaluations: 5174920
+Generated 23886437 state(s).
+Dead ends: 0 state(s).
+Expanded until last jump: 271532 state(s).
+Reopened until last jump: 34 state(s).
+Evaluated until last jump: 5104730 state(s).
+Generated until last jump: 23774272 state(s).
+Search space hash size: 5174920
+Search space hash bucket count: 6291469
+Search time: 1480.34s
+Total time: 1480.35s
+
+
+sat6_2_5_10_7:
+brafman1: 8310150 146626276 2979605 443.22 2640.6 23 0
+FD: 
+
+sat7_2_5_10_7:
+brafman1: 14565665 258465643 6721679 887.15 6177.65 23 0
+
+
+----------------------------
+OPTIMAL SATELLITES - altered
+----------------------------
+sat4_2_5_10_7-a:
+brafman1: 390626 6845948 46883 15.84 62.99 20 0
+FD:
+Plan cost: 20
+Initial state h value: 17.
+Expanded 23935 state(s).
+Reopened 8 state(s).
+Evaluated 408637 state(s).
+Evaluations: 408637
+Generated 1689806 state(s).
+Dead ends: 0 state(s).
+Expanded until last jump: 23882 state(s).
+Reopened until last jump: 8 state(s).
+Evaluated until last jump: 406639 state(s).
+Generated until last jump: 1686117 state(s).
+Search space hash size: 408637
+Search space hash bucket count: 786433
+Search time: 87.21s
+Total time: 87.22s
+
+
+sat5_2_5_10_7-a:
+brafman1: 762366 13360416 144808 31.51 155.71 20 0
+FD:
+Plan cost: 20
+Initial state h value: 16.
+Expanded 164654 state(s).
+Reopened 13 state(s).
+Evaluated 3480893 state(s).
+Evaluations: 3480893
+Generated 14417834 state(s).
+Dead ends: 0 state(s).
+Expanded until last jump: 164290 state(s).
+Reopened until last jump: 13 state(s).
+Evaluated until last jump: 3461273 state(s).
+Generated until last jump: 14386165 state(s).
+Search space hash size: 3480893
+Search space hash bucket count: 6291469
+Search time: 908s
+Total time: 908.02s
+
+
+sat6_2_5_10_7-a:
+brafman1: 2253878 39636900 627643 106.3 626.98 21 0
+FD: 
+Plan cost: 21
+Initial state h value: 17.
+Expanded 573273 state(s).
+Reopened 46 state(s).
+Evaluated 14376438 state(s).
+Evaluations: 14376438
+Generated 59965986 state(s).
+Dead ends: 0 state(s).
+Expanded until last jump: 572590 state(s).
+Reopened until last jump: 46 state(s).
+Evaluated until last jump: 14331891 state(s).
+Generated until last jump: 59894714 state(s).
+Search space hash size: 14376438
+Search space hash bucket count: 25165843
+Search time: 4645.87s
+Total time: 4645.89s
+
+
+sat7_2_5_10_7-a:
+brafman1: 2136066 37614425 662668 103.1 584.38 20 0
+
+sat8_2_5_11_8-a
+brafman1: 1873519 36530249 476220 116.92 928.52 20 0
+
+sat9_2_5_12_9-a
+brafman1: 2397294 51574183 671693 173.52 1555.84 20 0
+
+sat10_2_5_13_10
+brafman1: 11148465 263361393 3590961 1264.4 12620.02 20 0
+
+------------------------------
+ROVERS - OPTIMAL
+------------------------------
+rov_3_3_3_2_3:
+
+FD:
+Plan cost: 18
+Initial state h value: 14.
+Expanded 19588 state(s).
+Reopened 0 state(s).
+Evaluated 92389 state(s).
+Evaluations: 92389
+Generated 323955 state(s).
+Dead ends: 0 state(s).
+Expanded until last jump: 19582 state(s).
+Reopened until last jump: 0 state(s).
+Evaluated until last jump: 92331 state(s).
+Generated until last jump: 323863 state(s).
+Search space hash size: 92389
+Search space hash bucket count: 98317
+Search time: 2.76s
+Total time: 2.76s
+
+
+
+rov_4_4_4_2_4:
+brafman1: 221623 1522142 33531 2.97 11.66 17 0
+FD:
+Plan cost: 17
+Initial state h value: 14.
+Expanded 11541 state(s).
+Reopened 0 state(s).
+Evaluated 101313 state(s).
+Evaluations: 101313
+Generated 267100 state(s).
+Dead ends: 0 state(s).
+Expanded until last jump: 11533 state(s).
+Reopened until last jump: 0 state(s).
+Evaluated until last jump: 101221 state(s).
+Generated until last jump: 266918 state(s).
+Search space hash size: 101313
+Search space hash bucket count: 196613
+Search time: 4.43s
+Total time: 4.43s
+
+
+rov_5_5_5_2_4:
+brafman1: 21796998 106178015 16939378 488.52 2358.43 25 0
+FD:
+Plan cost: 25
+Initial state h value: 19.
+Expanded 1819092 state(s).
+Reopened 0 state(s).
+Evaluated 12424758 state(s).
+Evaluations: 12424758
+Generated 38639471 state(s).
+Dead ends: 0 state(s).
+Expanded until last jump: 1819065 state(s).
+Reopened until last jump: 0 state(s).
+Evaluated until last jump: 12424485 state(s).
+Generated until last jump: 38638880 state(s).
+Search space hash size: 12424758
+Search space hash bucket count: 12582917
+Search time: 857.18s
+Total time: 857.18s
+
+
+rov_5_4_4_2_4:
+260922 1395340 165399 3.74 18.22 17 0
+FD:
+Plan cost: 17
+Initial state h value: 15.
+Expanded 4561 state(s).
+Reopened 0 state(s).
+Evaluated 54433 state(s).
+Evaluations: 54433
+Generated 101786 state(s).
+Dead ends: 0 state(s).
+Expanded until last jump: 4556 state(s).
+Reopened until last jump: 0 state(s).
+Evaluated until last jump: 54366 state(s).
+Generated until last jump: 101686 state(s).
+Search space hash size: 54433
+Search space hash bucket count: 98317
+Search time: 2.45s
+Total time: 2.45s
+
+
+
+
